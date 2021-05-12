@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" height="200" title="Banner">
+  <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" height="70%" title="Banner">
 </p>
 <!--![banner](https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true)-->
 
