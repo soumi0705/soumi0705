@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" height="200" title="Banner">
+</p>
+<!--![banner](https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true)-->
 ### Hi there, Welcome to Soumitro's Github Profile 👋 
 #### I am a Web Developer, really interested in Solidity Development 
 - 🔭 I’m currently working on [EdLαnce](https://devfolio.co/submissions/edlance-3269)
