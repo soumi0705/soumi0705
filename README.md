@@ -1,12 +1,13 @@
-### Hi there 👋
-
+### Hi there, Welcome to Soumitro's Github Profile 👋 
+#### I am a Web Developer, really interested in Solidity Development 
+- 🔭 I’m currently working on [EdLαnce](https://devfolio.co/submissions/edlance-3269)
+- 🌱 I’m currently learning React.js
 <!--
 **soumi0705/soumi0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
