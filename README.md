@@ -16,7 +16,7 @@
 
 
 [instagram]: https://www.instagram.com/soumi0705/
-[linkedin]: https://linkedin.com/in/jamesqquick
+[linkedin]: https://www.linkedin.com/in/soumitro-datta-b89919183/
 [hackerrank]: https://www.hackerrank.com/soumi0705
 
 
