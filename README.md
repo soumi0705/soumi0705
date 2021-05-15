@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [EdLαnce](https://devfolio.co/submissions/edlance-3269)
 - 🌱 I’m currently learning React.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,php,ejs&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - - - -
 ### Education : 
