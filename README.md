@@ -6,11 +6,13 @@
 
 ### Hi there, Welcome to Soumitro's Github Profile 👋 
 #### I am a Web Developer, really interested in Solidity Development 
-- 🔭 I’m currently working on  [M. Terrain Designs](https://mterraintester07.herokuapp.com/)
-<!--[EdLαnce](https://devfolio.co/submissions/edlance-3269)-->
+- 🔭 I’m currently working on  [Watch-Dogs(Security Automation)](https://watch-dog07.herokuapp.com/)
+<!--
+[M. Terrain Designs](https://mterraintester07.herokuapp.com/)
+[EdLαnce](https://devfolio.co/submissions/edlance-3269)-->
 - 🌱 I’m currently learning Tailwind Css
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs,jupyter%20notebook&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - - - -
 ### Education : 
