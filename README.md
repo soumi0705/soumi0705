@@ -12,7 +12,7 @@
 [EdLαnce](https://devfolio.co/submissions/edlance-3269)-->
 - 🌱 I’m currently learning Tailwind Css
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs,jupyter%20notebook&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs,php&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - - - -
 ### Education : 
