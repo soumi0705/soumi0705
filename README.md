@@ -6,7 +6,7 @@
 
 ### Hi there, Welcome to Soumitro's Github Profile 👋 
 #### I am a Web Developer, really interested in Solidity Development 
-<!-- - 🔭 I’m currently working on [EdLαnce](https://docs.google.com/presentation/d/11hzHx92gPnx3sOkRfBTbXifp00ps7sM7xDixAWLNiwo/edit?usp=sharing) -->
+- 🔭 I’m currently working on [EdLαnce](https://www.notion.so/a7bbbbd26b0b4a5084ec218f013fed84?v=fe2585a4f98b4ed5a419b4268a57e3a5)
 <!--
 [M. Terrain Designs](https://mterraintester07.herokuapp.com/)
 [EdLαnce](https://devfolio.co/submissions/edlance-3269)
