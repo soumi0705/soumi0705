@@ -1,42 +1,39 @@
 <p align="center">
   <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" width="90%" title="Banner">
 </p>
-<!--![banner](https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true)-->
 
+### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/web-portfolio/) Github Profile 👋
 
-### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/web-portfolio/) Github Profile 👋 
-#### I am a Web Developer, really interested in Solidity Development 
-<!-- - 🔭 I’m currently working on Nothing -->
-<!--
-[M. Terrain Designs](https://mterraintester07.herokuapp.com/)
-[EdLαnce](https://devfolio.co/submissions/edlance-3269)
- [Watch-Dogs(Security Automation)](https://watch-dog07.herokuapp.com/)
-[EdLαnce](https://www.notion.so/a7bbbbd26b0b4a5084ec218f013fed84?v=fe2585a4f98b4ed5a419b4268a57e3a5)
--->
-- 🌱 I’m currently learning Solidity Development
+I am an experienced Web Developer, interested in Cybersecurity.
+
+---
+
+I've worked with: 
+
+![Node.JS](https://img.shields.io/badge/Node.Js-43853D.svg?style=plastic&logo=nodedotjs&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a.svg?style=plastic&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.Js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumi0705&hide=hack,ejs,php&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- - - -
-### Education : 
-:computer: B-Tech Computer Science from Vellore Institute of Technology
-- - - -
-### Connect With Me On:
-📷 [Instagram][instagram] **|** 
-👔 [LinkedIn][linkedin] **|**
-:wrench:[HackerRank][hackerrank]
+---
 
+### Education :
+
+:computer: B-Tech Computer Science from Vellore Institute of Technology
+
+---
+
+### Connect With Me On:
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=E4405F)]([instagram])
+
+[![Instagram](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin&logoColor=0A66C2)]([linkedin])
 
 [instagram]: https://www.instagram.com/soumi0705/
 [linkedin]: https://www.linkedin.com/in/soumitro-datta-b89919183/
-[hackerrank]: https://www.hackerrank.com/soumi0705
-
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
