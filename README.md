@@ -31,9 +31,9 @@ I've worked with:
 
 ### Connect With Me On:
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=E4405F)]([instagram])
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soumi0705/)
 
-[![Instagram](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin&logoColor=0A66C2)]([linkedin])
+[![Instagram](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/soumitro-datta-b89919183/)
 
 [instagram]: https://www.instagram.com/soumi0705/
 [linkedin]: https://www.linkedin.com/in/soumitro-datta-b89919183/
