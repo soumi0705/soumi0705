@@ -4,7 +4,7 @@
 
 ### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/web-portfolio/) Github Profile 👋
 
-I am an experienced Web Developer, interested in Cybersecurity.
+Full Stack Developer at Crystal Delta, specializing in ReactJS, NodeJS, and PostgreSQL. Pursuing an MS in Cybersecurity. Passionate about teamwork, innovation, and continuous learning. Experienced in collaborative projects and global hackathons. Always ready to tackle new challenges in the tech industry.
 
 ---
 
