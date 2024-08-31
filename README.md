@@ -2,7 +2,7 @@
   <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" width="90%" title="Banner">
 </p>
 
-### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/web-portfolio/) Github Profile 👋
+### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/react-portfolio/) Github Profile 👋
 
 Full Stack Developer at Crystal Delta, specializing in ReactJS, NodeJS, and PostgreSQL. Pursuing an MS in Cybersecurity. Passionate about teamwork, innovation, and continuous learning. Experienced in collaborative projects and global hackathons. Always ready to tackle new challenges in the tech industry.
 
