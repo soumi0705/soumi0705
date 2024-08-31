@@ -25,7 +25,9 @@ I've worked with:
 
 ### Education :
 
-:computer: B-Tech Computer Science from Vellore Institute of Technology
+:computer: MS in Cyersecurity from RMIT - City Campus, Melbourne
+
+:computer: B-Tech Computer Science from Vellore Institute of Technology, Chennai
 
 ---
 
